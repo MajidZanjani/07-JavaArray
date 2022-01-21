@@ -9,6 +9,7 @@ public class JavaArray {
 	} 
 
 	public static void main(String[] args) {
+		
 		// One dimension Array example
 		int a[] = {5,6,12,2,45,8,4};
 		System.out.println("One Dimension Array");
